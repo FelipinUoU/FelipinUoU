@@ -20,7 +20,8 @@ Me chamo Felipe Silva. Me formei técnico em Desenvolvimento de Sistemas na ETEC
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipin_uou/)
 
 
-Com música, sinto meu corpo e mente calmos. Me ajuda a trabalhar. 🎧
+Com música, sinto meu corpo e mente calmos. Me ajuda a trabalhar. 🎧 </br>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pipis2x&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=c93bb6&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=pipis2x&redirect=true)
 
 
