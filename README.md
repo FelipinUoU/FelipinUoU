@@ -10,9 +10,6 @@ Me chamo Felipe Silva. Me formei técnico em Desenvolvimento de Sistemas na ETEC
     <img align="center" alt="boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whitee" />
 </div>
 
-#### Outras linguagens que eu já trabalhei
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipinUoU&layout=compact)
-
 ## Caso queira entrar em contato	
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-930a05247/) 
